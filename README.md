@@ -1,3 +1,6 @@
+<img width="928" height="461" alt="data cleaning" src="https://github.com/user-attachments/assets/93de710c-42d1-4e64-817b-e13f050bad33" />
+<img width="1052" height="647" alt="average age in beauty products" src="https://github.com/user-attachments/assets/86fab7a4-aa08-4b62-8e1f-ee438f4ccc29" />
+<img width="958" height="712" alt="highest sale month by year" src="https://github.com/user-attachments/assets/6d3d1b89-da6d-44fe-9268-417f73efd2fe" />
 <img width="700" height="197" alt="clothing-high sale" src="https://github.com/user-attachments/assets/9c3e0e05-b912-4833-89f4-256c6378e88f" />
 # Retail-Sales-Analysis-SQL
 # Retail Sales Data Analysis Using SQL
