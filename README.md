@@ -1,3 +1,4 @@
+<img width="700" height="197" alt="clothing-high sale" src="https://github.com/user-attachments/assets/9c3e0e05-b912-4833-89f4-256c6378e88f" />
 # Retail-Sales-Analysis-SQL
 # Retail Sales Data Analysis Using SQL
 
